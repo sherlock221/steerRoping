@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cow_run_02",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "37b1ba35-7363-458d-b5e1-eab869b0284e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "d4223212-5a83-4c4e-ae7b-9c76c21f821c"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "0eb46f8e-960f-4ba2-b9ef-495892bb33b9"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "37b1ba35-7363-458d-b5e1-eab869b0284e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
